@@ -44,7 +44,7 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
-./node_modules
-./myApp/www/lib
-./myApp/node_modules
-./myApp/www/.DS_Store
+node_modules/
+myApp/www/lib
+myApp/node_modules
+myApp/www/.DS_Store
